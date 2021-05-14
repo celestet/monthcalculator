@@ -1,0 +1,3 @@
+/Users/celeste/Desktop/folders/PCC/FRESHMAN /fall/cs2/organized_after/workingproj/monthcalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/celeste/Desktop/folders/PCC/FRESHMAN /fall/cs2/organized_after/workingproj/monthcalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/celeste/Desktop/folders/PCC/FRESHMAN /fall/cs2/organized_after/workingproj/monthcalc/cmake-build-debug/CMakeFiles/monthcalc.dir

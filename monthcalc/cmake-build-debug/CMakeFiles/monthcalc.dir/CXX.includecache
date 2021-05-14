@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/celeste/Desktop/folders/PCC/FRESHMAN /fall/cs2/organized_after/workingproj/monthcalc/main.cpp
+iostream
+-
+cstdlib
+-
+cmath
+-
+ctime
+-
+string
+-
+sstream
+-
+
